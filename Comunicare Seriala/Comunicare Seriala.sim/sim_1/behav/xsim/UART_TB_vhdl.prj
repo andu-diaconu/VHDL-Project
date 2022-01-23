@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Comunicare Seriala.srcs/sources_1/new/UART_RX.vhd" \
+"../../../../Comunicare Seriala.srcs/sources_1/new/UART_TX.vhd" \
+"../../../../Comunicare Seriala.srcs/sim_1/new/testbench.vhd" \
+
+# Do not sort compile order
+nosort

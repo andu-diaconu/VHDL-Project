@@ -1,0 +1,12 @@
+
+{ 
+    crc :  8949449609456693106  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 4553eb8b7f864873b89ec634d12b8ea0 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot UART_TB_behav xil_defaultlib.UART_TB" , 
+    buildDate : "Jun 10 2021" , 
+    buildTime : "20:04:57" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2021.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/UART_TB_behav/xsimk.exe\"   \"xsim.dir/UART_TB_behav/obj/xsim_0.win64.obj\" \"xsim.dir/UART_TB_behav/obj/xsim_1.win64.obj\" -L\"C:\\Xilinx\\Vivado\\2021.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

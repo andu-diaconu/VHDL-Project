@@ -1,0 +1,17 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto 4553eb8b7f864873b89ec634d12b8ea0 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot UART_TB_behav xil_defaultlib.UART_TB -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture rtl of entity xil_defaultlib.UART_TX [uart_tx_default]
+Compiling architecture rtl of entity xil_defaultlib.UART_RX [uart_rx_default]
+Compiling architecture behave of entity xil_defaultlib.uart_tb
+Built simulation snapshot UART_TB_behav
